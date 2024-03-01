@@ -1,1 +1,5 @@
-# PokeWeatherChallenge
+/get_longest_pokemon_name_by_type
+
+/get_random_pokemon_by_type
+
+/get_pokemon_info_by_name
